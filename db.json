@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "id": 2
+    },
+    {
+      "title": "The greatest book ever!!!!",
+      "description": "It's a book that's about awesome stuff! Written by me Cameron.",
+      "id": 3
+    },
+    {
+      "title": "My title 222",
+      "description": "This is the description lolz",
+      "id": 4
+    },
+    {
+      "title": "My new book!$$$",
+      "description": "This is my description!",
+      "id": 5
+    },
+    {
+      "title": "$$$$$",
+      "description": "££££££££££££",
+      "userId": "",
+      "id": 6
+    }
+  ]
+}
